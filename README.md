@@ -10,3 +10,4 @@ Testo esplicativo del rapporto tra forma visiva e valori comunicati attraverso g
 #### Caratteri e palette
 #### Griglie e regole d'impaginazione
 #### Guida ai Social Media
+[link](/Strategia.md)
