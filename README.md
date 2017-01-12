@@ -18,6 +18,13 @@ Possiamo progettare un ambiente ripartendo da questa riflessione? L'immagine è 
 
 Il brand del progetto parla degli **elementi** sufficienti e necessari al comfort umano sul pianeta Marte e ne rispecchia le caratteristiche: crea un sistema grafico dinamico, integrato, iconico che significa grazie alle variazioni relazionali tra i suoi componenti, in mutevole ma riconoscibile rapporto. Può sfruttare funzioni algoritmiche ed espressività cinetiche.
 
+##### Terza proposta
+L'insediamento su Marte aprirà le porte di un evento epocale, un punto di svolta nella storia dell'umanità, un avvenimento dalle ripercussioni evolutive di proporzioni incalcolabili che abbiamo sognato ed immaginato per più di un secolo: l'esordio di una civiltà interplanetaria.
+Questo evento è promotore di un momento angolare di svolta, l'incipit della possibile sopravvivenza della specie umana fin oltre il tempo che l'Universo ha previsto per la Terra ed il Sistema Solare. 
+Adesso però guardiamo il mondo che ci circonda. È una doccia fredda. La gravità si fa di nuovo schiacciante man mano che ci rendiamo conto di quanto ancora c'è da migliorare qui sulla Terra, quanto ancora dobbiamo cambiare.
+Essere consci dei nostri lati oscuri non deve però scoraggiare ma può aprire la possibilità di alimentare il vento del cambiamento insito nelle potenzialità di questo nuovo passo, determinando una riscoperta di ciò che siamo e ciò che potremmo essere, lavorando sui sistemi archetipici della società globale. Vederci con occhi nuovi, dalla nuova prospettiva guadagnata con questo passo.
+
+
 ## Linee Guida
 #### Logo
 #### Immagine coordinata
